@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffaf0; /* Warna latar putih cream */
+    color: #333; /* Warna teks */
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #ff69b4; /* Warna pink */
+}
+
+a {
+    color: #ff69b4; /* Warna link */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
